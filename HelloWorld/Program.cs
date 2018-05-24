@@ -6,37 +6,80 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            /*
-            Console.WriteLine("Mahreen's Big Giveaway");
-            Console.Write("Choose a door: 1, 2 or 3: ");
-            string userValue = Console.ReadLine();
-            string message = "";
+            // Variable declaration
+            int x, y, a, b;
 
-            if (userValue == "1")
-                 message = "You win a trip around the world!";
-            else if (userValue == "2") 
-                message = "You win a litter of puppies!";
-            else if (userValue == "3")
-                message = "You win a MacBook!";
-            else 
-                message = "No prize for you :(";
+            // Assignment operator
+            x = 3;
+            y = 2;
+            a = 1;
+            b = 0;
 
-            Console.WriteLine(message);
-            Console.ReadLine();
-            */
+            // There are many mathematical operators ...
 
-            Console.WriteLine("Mahreen's Big Giveaway");
-            Console.Write("Choose a door: 1, 2 or 3: ");
-            string userValue = Console.ReadLine();
-           
-            string message = (userValue == "1") ? "a Vacation" : "Oatmeal .. yum";
+            // Addition operator
+            x = 3 + 4;
 
-            Console.WriteLine(" You entered: {0}, You win {1}.", userValue, message);
+            // Subtraction operator
+            x = 4 - 3;
 
-            Console.ReadLine();
+            // Multiplication operator
+            x = 10 * 5;
+
+            // Division operator
+            x = 10 / 5;
+
+            // Order of operations using parenthesis
+            x = (x + y) * (a - b);
+
+            // There are many operators used to evaluate values ...
+
+            // Equality operator
+            if (x == y)
+            {
+            }
+
+            // Greater than operator
+            if (x > y)
+            {
+            }
+
+            // Less than operator
+            if (x < y)
+            {
+            }
+
+            // Greater or equal to operator
+            if (x >= y)
+            {
+            }
+
+            // Less than or equal to operator
+            if (x <= y)
+            {
+            }
 
 
+            // There are two "conditional" operators as well that can
+            // be used to expand / enhance an evaluation ...
+            // ... and they can be combined together multiple times.
 
+            // Conditional AND operator … 
+            if ((x > y) && (a > b))
+            {
+            }
+
+            // Conditional OR operator …
+            if ((x > y) || (a > b))
+            {
+            }
+
+            // Also, here's the in-line conditional operator we 
+            // learned about in the previous lesson ...
+            string message = (x == 1) ? "Car" : "Boat";
+
+            // Member access and Method invocation
+            Console.WriteLine("Hi");
         }
     }
 }
