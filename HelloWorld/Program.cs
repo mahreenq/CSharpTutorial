@@ -6,28 +6,35 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            /* 
-             int x;
-             int y;
+            /*
+            Console.WriteLine("Mahreen's Big Giveaway");
+            Console.Write("Choose a door: 1, 2 or 3: ");
+            string userValue = Console.ReadLine();
+            string message = "";
 
-             x = 7;
-             y = x + 3;
+            if (userValue == "1")
+                 message = "You win a trip around the world!";
+            else if (userValue == "2") 
+                message = "You win a litter of puppies!";
+            else if (userValue == "3")
+                message = "You win a MacBook!";
+            else 
+                message = "No prize for you :(";
 
-             Console.WriteLine(y);
-             Console.ReadLine(); 
-             */
-
-
-            Console.WriteLine("What is your name?");
-
-            Console.Write("Type your first name: ");
-            string myFirstName = Console.ReadLine();
-
-            Console.Write("Type your last name: ");
-            string myLastName = Console.ReadLine();
-
-            Console.WriteLine("Hello, " + myFirstName + " " + myLastName);
+            Console.WriteLine(message);
             Console.ReadLine();
+            */
+
+            Console.WriteLine("Mahreen's Big Giveaway");
+            Console.Write("Choose a door: 1, 2 or 3: ");
+            string userValue = Console.ReadLine();
+           
+            string message = (userValue == "1") ? "a Vacation" : "Oatmeal .. yum";
+
+            Console.WriteLine(" You entered: {0}, You win {1}.", userValue, message);
+
+            Console.ReadLine();
+
 
 
         }
