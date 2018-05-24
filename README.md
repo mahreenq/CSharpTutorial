@@ -6,4 +6,5 @@
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/assessment/HelloWorld/Program.cs"> CHEATSHEAT - Assessment: Operators, Expressions and Statements </a> </li>
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/iteration/HelloWorld/Program.cs">  Assessment: for Iteration Statement </a> </li>
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/arrays/HelloWorld/Program.cs">  Understanding Arrays </a> </li>
+<li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/methods/HelloWorld/Program.cs">  Assessment: Defining and Calling Methods </a> </li>
 </ol>
