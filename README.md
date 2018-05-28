@@ -13,5 +13,5 @@
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/classes/HelloWorld/Program.cs">Understanding Classes </a> </li>
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/classes2/HelloWorld/Program.cs">More About Classes and Methods </a> </li>
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/scope/HelloWorld/Program.cs">Understanding Scope and Accessibility Modifiers </a> </li>
-<li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/namespaces/HelloWorld/Program.cs">Understanding Namespaces and Wokring with the .NET Class Library</a> </li>
+<li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/namespaces/HelloWorld/Program.cs">Understanding Namespaces and Working with the .NET Class Library</a> </li>
 </ol>
