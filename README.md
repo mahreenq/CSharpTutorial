@@ -11,4 +11,5 @@
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/strings/HelloWorld/Program.cs">Working with Strings </a> </li>
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/dateTime/HelloWorld/Program.cs">Working with Dates and Times </a> </li>
 <li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/classes/HelloWorld/Program.cs">Understanding Classes </a> </li>
+<li> <a href="https://github.com/mahreenq/CSharpTutorial/blob/classes2/HelloWorld/Program.cs">More About Classes and Methods </a> </li>
 </ol>
